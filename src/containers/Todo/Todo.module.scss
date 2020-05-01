@@ -1,0 +1,9 @@
+.todos {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.todo .completed {
+  text-decoration: line-through;
+}
